@@ -1,0 +1,10 @@
+# BraTS 2023 — Python dependencies (excluding torch; see setup.sh for the CUDA build)
+monai==1.5.2
+nibabel>=5.1
+numpy>=1.26
+scipy>=1.11
+scikit-image>=0.22
+connected-components-3d>=3.12
+tqdm>=4.66
+matplotlib>=3.8
+einops>=0.7
